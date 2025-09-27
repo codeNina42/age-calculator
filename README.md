@@ -24,7 +24,7 @@ How to Use:
 
 Clone the repository:
 
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/codeNina42/age-calculator.git
 
 
 Navigate to the project directory:
